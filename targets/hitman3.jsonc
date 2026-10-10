@@ -1,0 +1,57 @@
+{
+    "Dubai": {
+        "mission": "On Top of the World",
+        "achievement": "Death From Above",
+        "targets": [
+            "Carl Ingram",
+            "Marcus Stuyvesant"
+        ]
+    },
+    "Dartmoor": {
+        "mission": "Death in the Family",
+        "achievement": "Master of the Household",
+        "targets": [
+            "Alexa Carlisle"
+        ]
+    },
+    "Berlin": {
+        "mission": "Apex Predator",
+        "achievement": "Death of the Party",
+        "targets": [
+            "Agent Montgomery",
+            "Agent Banner",
+            "Agent Tremaine",
+            "Agent Thames",
+            "Agent Green",
+            "Agent Rhodes",
+            "Agent Swan",
+            "Agent Lowenthal",
+            "Agent Chamberlin",
+            "Agent Davenport",
+            "Agent Price"
+        ]
+    },
+    "Chongqing": {
+        "mission": "End of an Era",
+        "achievement": "NEXUS-47",
+        "targets": [
+            "Hush",
+            "Imogen Royce"
+        ]
+    },
+    "Mendoza": {
+        "mission": "The Farewell",
+        "achievement": "The Last Tango",
+        "targets": [
+            "Don Archibald Yates",
+            "Tamara Vidal"
+        ]
+    },
+    "Carpathian Mountains": {
+        "mission": "Untouchable",
+        "achievement": "Nightmare Fuel",
+        "targets": [
+            "Arthur Edwards"
+        ]
+    }
+}

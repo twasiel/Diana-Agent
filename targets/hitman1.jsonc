@@ -1,0 +1,42 @@
+{
+    "ICA Facility - Freeform Training": {
+        "mission": "Freeform Training",
+        "achievement": "The Result of Previous Training",
+        "targets": ["Kalvin Ritter"]
+    },
+    "ICA Facility - The Final Test": {
+        "mission": "The Final Test",
+        "achievement": "Cleared for Field Duty",
+        "targets": ["Jasper Knight"]
+    },
+    "Paris": {
+        "mission": "The Showstopper",
+        "achievement": "When No One Else Dares",
+        "targets": ["Viktor Novikov", "Dalia Margolis"]
+    },
+    "Sapienza": {
+        "mission": "World of Tomorrow",
+        "achievement": "Die by the Sword",
+        "targets": ["Silvio Caruso", "Francesca De Santis"]
+    },
+    "Marrakesh": {
+        "mission": "A Gilded Cage",
+        "achievement": "Too Big to Fail",
+        "targets": ["Claus Hugo Strandberg", "Reza Zaydan"]
+    },
+    "Bangkok": {
+        "mission": "Club 27",
+        "achievement": "Shining Bright",
+        "targets": ["Jordan Cross", "Ken Morgan"]
+    },
+    "Colorado": {
+        "mission": "Freedom Fighters",
+        "achievement": "Guerrilla Warfare",
+        "targets": ["Sean Rose", "Penelope Graves", "Ezra Berg", "Maya Parvati"]
+    },
+    "Hokkaido": {
+        "mission": "Situs Inversus",
+        "achievement": "A Long Time Coming",
+        "targets": ["Erich Soders", "Yuki Yamazaki"]
+    }
+}

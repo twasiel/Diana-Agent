@@ -1,0 +1,75 @@
+{
+    "Hawke's Bay": {
+        "mission": "Nightcall",
+        "achievement": "Infiltrator",
+        "targets": [
+            "Alma Reynard"
+        ]
+    },
+    "Miami": {
+        "mission": "The Finish Line",
+        "achievement": "Damage Control",
+        "targets": [
+            "Sierra Knox",
+            "Robert Knox"
+        ]
+    },
+    "Santa Fortuna": {
+        "mission": "Three-Headed Serpent",
+        "achievement": "Tactical Strike",
+        "targets": [
+            "Rico Delgado",
+            "Jorge Franco",
+            "Andrea Martinez"
+        ]
+    },
+    "Mumbai": {
+        "mission": "Chasing a Ghost",
+        "achievement": "Pirate Hunter",
+        "targets": [
+            "Dawood Rangan",
+            "Vanya Shah",
+            "Wazir Kale"
+        ]
+    },
+    "Whittleton Creek": {
+        "mission": "Another Life",
+        "achievement": "Long Shot",
+        "targets": [
+            "Janus",
+            "Nolan Cassidy"
+        ]
+    },
+    "Ambrose Island": {
+        "mission": "Shadows in the Water",
+        "achievement": null,
+        "targets": [
+            "Noel Crest",
+            "Sinhi Akka Venthan"
+        ]
+    },
+    "Isle of Sgail": {
+        "mission": "The Ark Society",
+        "achievement": "This is Maintenance",
+        "targets": [
+            "Zoe Washington",
+            "Sophia Washington"
+        ]
+    },
+    "New York": {
+        "mission": "Golden Handshake",
+        "achievement": "Break the Bank",
+        "targets": [
+            "Athena Savalas"
+        ]
+    },
+    "Haven Island": {
+        "mission": "The Last Resort",
+        "achievement": "Island and Chill",
+        "targets": [
+            "Tyson Williams",
+            "Steven Bradley",
+            "Ljudmila Vetrova"
+        ]
+    }
+}
