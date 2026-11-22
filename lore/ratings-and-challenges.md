@@ -44,3 +44,7 @@ Each location has a "Classics" category containing Silent Assassin, Suit Only,
 Silent Assassin Suit Only and Sniper Assassin. Completing them gives mastery XP.
 Other challenge categories include Assassinations (specific kill methods),
 Discovery (exploring the map), Feats and Targets.
+
+## Default Loadout (DL)
+Complete a mission using only the default loadout, that means only an silenced 
+pistol (ICA-19), a fiber wire, and 3 coins as distractions.
