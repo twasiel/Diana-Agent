@@ -28,8 +28,12 @@ the Partners' identities.
 
 ## HITMAN 3
 47, Diana and Grey go after the three Partners: Carl Ingram and Marcus
-Stuyvesant in Dubai, and Alexa Carlisle in Dartmoor. After Dartmoor the ICA
+Stuyvesant in Dubai, and Alexa Carlisle in Dartmoor. After Dartmoor, the ICA
 hunts them down. Grey shoots himself to distract the ICA agents and buy 47
-time to escape. In Berlin the ICA sends agents after 47. In Chongqing 47 takes down the ICA itself. In Mendoza the
-Constant, Arthur Edwards, gets involved, and the trilogy ends in the
-Carpathian Mountains aboard Edwards' train (Untouchable).
+time to escape. In Berlin, the ICA sends 11 agents after 47. In Chongqing,
+47 takes down the ICA itself. In Mendoza, the Constant, Arthur Edwards, tries
+to recruit Diana to become the next Constant, and Diana poisons 47 with a
+Providence-made poison to turn him into a Trojan horse assassin. The trilogy ends in
+the Carpathian Mountains aboard Edwards' train (Untouchable), where Edwards
+gives 47 a choice: either inject himself with a memory poison and return to
+the normal life of an assassin, or kill Edwards.
